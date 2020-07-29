@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9D73E9D24D1BA62005A8DA2 /* See You On The Otherside - The 126ers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9D73E9C24D1BA62005A8DA2 /* See You On The Otherside - The 126ers.mp3 */; };
 		A9D7684B24CB21B0005DA2CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D7684A24CB21B0005DA2CF /* AppDelegate.swift */; };
 		A9D7684D24CB21B0005DA2CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D7684C24CB21B0005DA2CF /* SceneDelegate.swift */; };
 		A9D7684F24CB21B0005DA2CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D7684E24CB21B0005DA2CF /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A9D73E9C24D1BA62005A8DA2 /* See You On The Otherside - The 126ers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "See You On The Otherside - The 126ers.mp3"; sourceTree = "<group>"; };
 		A9D7684724CB21B0005DA2CF /* Audio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Audio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D7684A24CB21B0005DA2CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9D7684C24CB21B0005DA2CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		A9D7684924CB21B0005DA2CF /* Audio */ = {
 			isa = PBXGroup;
 			children = (
+				A9D73E9C24D1BA62005A8DA2 /* See You On The Otherside - The 126ers.mp3 */,
 				A9D7684A24CB21B0005DA2CF /* AppDelegate.swift */,
 				A9D7684C24CB21B0005DA2CF /* SceneDelegate.swift */,
 				A9D7684E24CB21B0005DA2CF /* ViewController.swift */,
@@ -128,6 +131,7 @@
 				A9D7685724CB21B3005DA2CF /* LaunchScreen.storyboard in Resources */,
 				A9D7685424CB21B3005DA2CF /* Assets.xcassets in Resources */,
 				A9D7685224CB21B0005DA2CF /* Main.storyboard in Resources */,
+				A9D73E9D24D1BA62005A8DA2 /* See You On The Otherside - The 126ers.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
